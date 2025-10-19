@@ -29,5 +29,3 @@ Pasos para Android via Capacitor (resumen):
 4. npx cap add android
 5. npx cap copy
 6. Abrir `android/` en Android Studio para generar signed bundle o usar el workflow CI incluido.
-
-Cuando todo esté listo, responde “listo” en este chat y procederé a añadir más archivos/PRs si quieres.
